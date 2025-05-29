@@ -1,3 +1,6 @@
+![프론트엔드배포_다이어그램](https://github.com/user-attachments/assets/870d3b0b-561d-437e-9fae-fdebec2aa102)
+
+
 GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행되도록 합니다.
 
 (사전작업: Ubuntu 최신 버전 설치)
