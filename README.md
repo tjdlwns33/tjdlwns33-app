@@ -33,3 +33,9 @@ GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행
 * 캐시 정책 이름: Managed-CachingOptimized
 - 캐시 무효화(Cache Invalidation): 없음
 - Repository secret과 환경변수: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, S3_BUCKET_NAME, CLOUDFRONT_DISTRIBUTION_ID
+
+## CDN과 성능최적화
+![S3](https://github.com/user-attachments/assets/49323b8a-bf8b-4f86-bd69-8601d8ebb6ce)
+![cloud](https://github.com/user-attachments/assets/44594b1a-a8aa-4d01-bd90-7f733aec0e61)
+
+
