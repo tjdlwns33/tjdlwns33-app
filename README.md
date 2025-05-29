@@ -1,4 +1,5 @@
-![프론트엔드배포_다이어그램](https://github.com/user-attachments/assets/870d3b0b-561d-437e-9fae-fdebec2aa102)
+![image](https://github.com/user-attachments/assets/58e354df-cc9d-4957-bedc-252f8567a86f)
+
 
 
 GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행되도록 합니다.
